@@ -58,6 +58,21 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_is_val
         Encrypt().validate(params={"key": b'1111111111111111'})
 
 
+
+@pytest.mark.parametrize(
+    "key",
+    [
+        b"1111111111111111",                       
+        b"111111111111111111111111",              
+        b"11111111111111111111111111111111"       
+    ]
+)
+def test_given_verifying_valid_length_bytes_keys_no_exceptions_raised(key):
+    """Ensure Encrypt.validate accepts valid AES key sizes (128, 192, 256 bits)."""
+    Encrypt().validate(params={"key": key})
+
+
+
 def test_operator_name():
     op = Encrypt()
     assert op.operator_name() == "encrypt"
