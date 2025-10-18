@@ -16,18 +16,19 @@ Branches in this repo (with details):
     baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
     2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
 - lab7
-  SHA: afb69559f33284abd5136ad0376158e79cfb468a
-  Commits: 5
+  SHA: 08278a8cdcdfd5736ede702413d4b401d5d2724d
+  Commits: 6
   Recent commits:
+    08278a8 | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Date: 2025-10-18T19:56:37Z | Fix: mock is_valid_size instead of validate to trigger invalid key length error
     afb6955 | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Date: 2025-10-18T19:15:25Z | Task 1: Add logger.info assertion for RecognizerResult
     c4f6c84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:37Z | Auto-update branch-info.txt
     1661760 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:17Z | Auto-update branch-info.txt
     baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
-    2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
 - main
-  SHA: c4f6c84091c248001a55131cd2cc317d8eca0bb6
-  Commits: 4
+  SHA: 9434590ce452238db9a63111b6004afecd4806e3
+  Commits: 5
   Recent commits:
+    9434590 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T19:16:30Z | Auto-update branch-info.txt
     c4f6c84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:37Z | Auto-update branch-info.txt
     1661760 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:17Z | Auto-update branch-info.txt
     baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
