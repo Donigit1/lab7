@@ -1,7 +1,15 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 2e7560fbc8249dfe62919a5704361ba6d46d6ced
-  Commits: 1
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 5232588f71958a4c1e7b0f81b7f19013f10d799a
+  Commits: 3
   Recent commits:
+    5232588 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T17:24:10Z | Bump python in /presidio-anonymizer
+    baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
+    2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
+- main
+  SHA: baab5a6925d24a9a2e3e079626584b7a127e243b
+  Commits: 2
+  Recent commits:
+    baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
     2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
