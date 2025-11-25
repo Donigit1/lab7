@@ -7,14 +7,15 @@ Branches in this repo (with details):
     5232588 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T17:24:10Z | Bump python in /presidio-anonymizer
     baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
     2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: 7f14a5988231b7acbeb63cc7f8f09f783fd7a29f
-  Commits: 4
+- dependabot/github_actions/actions/checkout-6
+  SHA: 2567298fe5a3248704fe014f8c0f9ea3188f713d
+  Commits: 13
   Recent commits:
-    7f14a59 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T17:24:31Z | Bump actions/checkout from 3 to 5
-    1661760 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:17Z | Auto-update branch-info.txt
-    baab5a6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:23:34Z | Auto-update branch-info.txt
-    2e7560f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T13:23:24-04:00 | Initial commit
+    2567298 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-25T00:04:44Z | Bump actions/checkout from 3 to 6
+    5eddd37 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T20:36:23Z | Auto-update branch-info.txt
+    24c2a7f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T16:36:15-04:00 | Merge pull request #3 from Donigit1/lab7
+    71ffbeb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T20:33:16Z | Auto-update branch-info.txt
+    2d9fd79 | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Date: 2025-10-18T20:32:59Z | Completed Lab 7 - Added tests with logger mocks and parameterized tests
 - lab7
   SHA: 2d9fd79803b7cb25943e6e3d1c742724367f4023
   Commits: 7
@@ -25,11 +26,11 @@ Branches in this repo (with details):
     c4f6c84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:37Z | Auto-update branch-info.txt
     1661760 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T17:24:17Z | Auto-update branch-info.txt
 - main
-  SHA: 24c2a7fe250729c5f95b7270b7b4c1393a0461d4
-  Commits: 11
+  SHA: 5eddd3752b74d43df5dc90a5ff7752577d192fb4
+  Commits: 12
   Recent commits:
+    5eddd37 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T20:36:23Z | Auto-update branch-info.txt
     24c2a7f | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-18T16:36:15-04:00 | Merge pull request #3 from Donigit1/lab7
     71ffbeb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T20:33:16Z | Auto-update branch-info.txt
     2d9fd79 | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Date: 2025-10-18T20:32:59Z | Completed Lab 7 - Added tests with logger mocks and parameterized tests
     fcb541f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-18T19:56:50Z | Auto-update branch-info.txt
-    08278a8 | Author: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Committer: Adonay Zeru <231997187+Donigit1@users.noreply.github.com> | Date: 2025-10-18T19:56:37Z | Fix: mock is_valid_size instead of validate to trigger invalid key length error
