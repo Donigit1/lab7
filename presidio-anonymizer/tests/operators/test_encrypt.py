@@ -81,3 +81,21 @@ def test_operator_name():
 def test_operator_type():
     op = Encrypt()
     assert op.operator_type() == OperatorType.Anonymize
+
+import pytest
+from presidio_anonymizer.operators.encrypt import Encrypt
+
+
+@pytest.mark.parametrize(
+    "key",
+    [
+        "0" * 16,        # 128-bit string
+        "0" * 24,        # 192-bit string
+        "0" * 32,        # 256-bit string
+        b"0" * 16,       # 128-bit bytes
+        b"0" * 24,       # 192-bit bytes
+        b"0" * 32,       # 256-bit bytes
+    ],
+)
+def test_valid_keys(key):
+    Encrypt().validate({"key": key})
